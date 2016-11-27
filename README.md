@@ -29,12 +29,14 @@ You can easily manage the content in your static site on Cosmic JS.  Follow thes
 ###Benefits
 ####Next.js
 Next.js is a gift to the React community.  Building React universal applications is not an easy task and the Next.js framework has greatly simplified the process.  Some immediate benefits include:
+
 1. Less boilerplate for managing code reuse between server and client
 2. Get up and going with your development environment instantly with hot-loading
 3. Simplified paging
 ... see more on their GitHub page.
 ####Cosmic JS
 Cosmic JS is a perfect backend to manage your Next.js React Universal application.
+
 1. Query each page easily using the Cosmic JS NPM Module.
 2. No CMS boilerplate to configure, fast and easy setup.
 3. No updates or security updates required.
