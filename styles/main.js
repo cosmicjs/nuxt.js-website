@@ -63,6 +63,9 @@ export default `
     color: #ddd; 
   }
   @media (max-width: 768px) {
+    .nav li {
+      margin-right: 15px;
+    }
     .hero-unit {
       height: 400px;
     }
