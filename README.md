@@ -34,6 +34,7 @@ Next.js is a gift to the React community.  Building React universal applications
 2. Get up and going with your development environment instantly with hot-loading
 3. Simplified paging
 ... see more on their GitHub page.
+
 ####Cosmic JS
 Cosmic JS is a perfect backend to manage your Next.js React Universal application.
 
