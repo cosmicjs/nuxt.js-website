@@ -43,4 +43,4 @@ Cosmic JS is a perfect backend to manage your Next.js React Universal applicatio
 2. No CMS boilerplate to configure, fast and easy setup.
 3. No updates or security updates required.
 
-[... see more on the Cosmic JS website](htps://cosmicjs.com).
+[... see more on the Cosmic JS website](https://cosmicjs.com).
