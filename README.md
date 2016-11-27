@@ -18,7 +18,7 @@ COSMIC_BUCKET=your-bucket-slug yarn start
 Open [http://localhost:3000](http://localhost:3000).
 
 ###Next.js + React + Cosmic JS
-You can easily manage the content in your static site on Cosmic JS.  Follow these steps:
+You can easily manage the content in your Next.js website on Cosmic JS.  Follow these steps:
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a bucket.
