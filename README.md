@@ -24,7 +24,7 @@ You can easily manage the content in your static site on Cosmic JS.  Follow thes
 2. Create a bucket.
 3. Go to Your Bucket > Apps.
 4. Install the [Next Website App](https://cosmicjs.com/apps/next-website).
-5. Deploy your Next.js Site to the Cosmic App Server at Your Bucket > Web Hosting.
+5. Deploy your Next.js Website to the Cosmic App Server at Your Bucket > Web Hosting.
 
 ###Benefits
 ####Next.js
