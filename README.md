@@ -3,8 +3,8 @@
 ###[View Demo](http://next-website.cosmicapp.co)
 ###Getting Started
 ```
-git clone https://github.com/cosmicjs/next-website
-cd next-website
+git clone https://github.com/cosmicjs/next.js-website
+cd next.js-website
 yarn
 ```
 ####Run in development
@@ -23,7 +23,7 @@ You can easily manage the content in your Next.js website on Cosmic JS.  Follow 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a bucket.
 3. Go to Your Bucket > Apps.
-4. Install the [Next Website App](https://cosmicjs.com/apps/next-website).
+4. Install the [Next Website App](https://cosmicjs.com/apps/next.js-website).
 5. Deploy your Next.js Website to the Cosmic App Server at Your Bucket > Web Hosting.
 
 ###Benefits
