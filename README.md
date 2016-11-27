@@ -33,7 +33,8 @@ You can easily manage the content in your Next.js website on Cosmic JS.  Follow 
 1. Less boilerplate for managing code reuse between server and client
 2. Get up and going with your development environment instantly with hot-loading
 3. Simplified paging
-... see more on their GitHub page.
+
+[... see more on their GitHub page](https://github.com/zeit/next.js).
 
 ####Cosmic JS
 Cosmic JS is a perfect backend to manage your Next.js React Universal application.
@@ -41,4 +42,5 @@ Cosmic JS is a perfect backend to manage your Next.js React Universal applicatio
 1. Query each page easily using the [Cosmic JS NPM Module](https://github.com/cosmicjs/cosmicjs-node).
 2. No CMS boilerplate to configure, fast and easy setup.
 3. No updates or security updates required.
-... see more on the Cosmic JS website
+
+[... see more on the Cosmic JS website](htps://cosmicjs.com)
