@@ -21,7 +21,7 @@ Open [http://localhost:3000](http://localhost:3000).
 You can easily manage the content in your Next.js website on Cosmic JS.  Follow these steps:
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
-2. Create a bucket.
+2. Create a Bucket.
 3. Go to Your Bucket > Apps.
 4. Install the [Next Website App](https://cosmicjs.com/apps/next.js-website).
 5. Deploy your Next.js Website to the Cosmic App Server at Your Bucket > Web Hosting.
