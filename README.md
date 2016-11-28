@@ -1,6 +1,6 @@
 # Next.js Website
 ![Cosmic React Next](https://cosmicjs.com/uploads/58dafa10-b4f2-11e6-90d2-a7e1741e7b9d-cosmic-react-next.jpg)
-###[View Demo](http://nextjs-website.cosmicapp.co)
+###[View Demo](https://cosmicjs.com/apps/nextjs-website/demo)
 ###Getting Started
 ```
 git clone https://github.com/cosmicjs/next.js-website
