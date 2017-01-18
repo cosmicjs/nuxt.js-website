@@ -44,7 +44,7 @@ You can easily manage the content in your Nuxt.js website on Cosmic JS.  Follow 
 [... see more on their GitHub page](https://github.com/nuxt/nuxt.js).
 
 ####Cosmic JS
-Cosmic JS is a perfect backend to manage your Nuxt.js React Universal application.
+Cosmic JS is a perfect backend to manage your Nuxt Universal application.
 
 1. Query each page easily using the [Cosmic JS NPM Module](https://github.com/cosmicjs/cosmicjs-node).
 2. No CMS boilerplate to configure, fast and easy setup.
