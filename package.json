@@ -1,13 +1,11 @@
 {
   "dependencies": {
     "cosmicjs": "^2.35.0",
-    "next": "^1.1.2",
-    "shorti": "^1.2.6",
-    "yarn": "^0.17.9"
+    "nuxt": "^0.9.6"
   },
   "scripts": {
-    "development": "NODE_ENV=development next",
-    "build": "NODE_ENV=production next build",
-    "start": "yarn run build; NODE_ENV=production next start -p=$PORT"
+    "dev": "NODE_ENV=development nuxt",
+    "build": "nuxt build",
+    "start": "NODE_ENV=production nuxt start"
   }
 }

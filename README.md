@@ -9,17 +9,18 @@
 ```
 git clone https://github.com/Atinux/cosmic-nuxt
 cd cosmic-nuxt
-yarn
+npm install # or yarn install
 ```
 
 ####Run in development
 ```
-yarn run development
+npm run dev
 ```
 
 ####Run in production
 ```
-COSMIC_BUCKET=your-bucket-slug yarn start
+npm run build
+COSMIC_BUCKET=your-bucket-slug npm start
 ```
 Open [http://localhost:3000](http://localhost:3000).
 
