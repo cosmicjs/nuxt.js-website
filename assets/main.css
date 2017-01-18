@@ -63,6 +63,9 @@ main {
   color: #ddd;
 }
 @media (max-width: 768px) {
+  .nav ul {
+    padding-left: 20px;
+  }
   .nav li {
     margin-right: 15px;
   }
@@ -77,6 +80,7 @@ main {
     width: 100% !important;
   }
 }
+
 .clearfix:after {
    visibility: hidden;
    display: block;
