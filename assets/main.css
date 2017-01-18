@@ -31,7 +31,7 @@ ul li {
   color: #fff;
 }
 .nav li a.nuxt-link-active {
-  text-decoration: underline;
+  border-bottom: 1px #ddd solid;
 }
 .nav li a:hover {
   color: #ddd;
