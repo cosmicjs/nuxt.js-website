@@ -7,8 +7,8 @@
 ###Getting Started
 
 ```
-git clone https://github.com/Atinux/cosmic-nuxt
-cd cosmic-nuxt
+git clone https://github.com/cosmicjs/nuxt.js-website
+cd nuxt.js-website
 npm install # or yarn install
 ```
 
