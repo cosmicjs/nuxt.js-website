@@ -19,7 +19,6 @@ npm run dev
 
 ####Run in production
 ```
-npm run build
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
 Open [http://localhost:3000](http://localhost:3000).
