@@ -6,8 +6,9 @@
   },
   "scripts": {
     "dev": "NODE_ENV=development nuxt",
-    "build": "yarn; nuxt build",
-    "start": "npm run build; NODE_ENV=production nuxt start"
+    "build": "nuxt build",
+    "start": "npm run build; NODE_ENV=production nuxt start",
+    "heroku-postbuild": "npm run build"
   },
   "engines": {
     "node": "7.4.0"
