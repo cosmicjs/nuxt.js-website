@@ -2,7 +2,7 @@
 
 ![cosmic Vue Nuxt](https://cloud.githubusercontent.com/assets/904724/22075187/452f04e8-ddab-11e6-897c-3e065da06306.png)
 
-###[View Demo](https://cosmicjs.nuxtjs.org)
+###[View Demo](https://cosmicjs.com/apps/nuxtjs-website/demo)
 
 ###Getting Started
 
