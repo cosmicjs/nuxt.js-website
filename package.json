@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "NODE_ENV=development nuxt",
     "build": "nuxt build",
-    "start": "npm run build; NODE_ENV=production nuxt start",
-    "heroku-postbuild": "npm run build"
+    "start": "npm run build; HOST=0.0.0.0 nuxt start",
+    "start-dev": "npm run build; NODE_ENV=production nuxt start"
   },
   "engines": {
     "node": "7.4.0"
