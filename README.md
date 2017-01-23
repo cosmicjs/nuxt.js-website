@@ -2,7 +2,7 @@
 
 ![cosmic Vue Nuxt](https://cloud.githubusercontent.com/assets/904724/22075187/452f04e8-ddab-11e6-897c-3e065da06306.png)
 
-###[View Demo](https://cosmicjs.nuxtjs.org)
+###[View Demo](https://cosmicjs.com/apps/nuxtjs-website/demo)
 
 ###Getting Started
 
@@ -19,7 +19,6 @@ npm run dev
 
 ####Run in production
 ```
-npm run build
 COSMIC_BUCKET=your-bucket-slug npm start
 ```
 Open [http://localhost:3000](http://localhost:3000).
