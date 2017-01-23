@@ -1,4 +1,4 @@
-import config from '~/config'
+import config from '../config'
 import Cosmic from 'cosmicjs'
 
 export default {
