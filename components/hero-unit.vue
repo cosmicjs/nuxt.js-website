@@ -17,11 +17,6 @@ export default {
 }
 </script>
 
-    const page = this.props.page
-    return (
-    )
-  }
-}
 <style>
 .hero-unit {
   background-position: center;
